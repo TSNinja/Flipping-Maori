@@ -1,0 +1,14 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Flipping Māori",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Flipping Māori",
+  "start_url": "https://tsninja.github.io/Flipping-Maori/",
+  "theme_color": "#1a1410",
+  "id": "00001",
+  "description": "A Simple Flipcard solution for learning Maori",
+  "lang": "en"
+}
